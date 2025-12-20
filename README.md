@@ -68,7 +68,7 @@
 
 ---
 
-<div class="page-break"></div>
+<div style="page-break-before: always;"></div>
 
 ### 🚗 買い出し
 - 御籠りに必要な物資の買い出し
