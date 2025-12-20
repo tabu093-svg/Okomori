@@ -74,7 +74,6 @@
 
 ### 🚗 買い出し
 - 御籠りに必要な物資の買い出し
-
 <table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
   <thead>
     <tr>
@@ -145,7 +144,6 @@
     </tr>
   </tbody>
 </table>
-
 
 ---
 
