@@ -154,13 +154,6 @@
 
 </details>
 
-```mermaid
-flowchart TD
-    A[片付け開始] --> B[御神火]
-    A --> C[テント、椅子] 
-    A --> D[照明] 
-    D --> E
-```
 
 あああ
 
