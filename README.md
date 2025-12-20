@@ -104,7 +104,7 @@
       <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2本</td>
     </tr>
     <tr style="page-break-inside: avoid;">
-      <td style="padding: 2px 6px; border: 1px solid #ccc;">ガムテ、養生テープ</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">ガムテープ/養生テープ</td>
       <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">各5個</td>
     </tr>
     <tr style="page-break-inside: avoid;">
