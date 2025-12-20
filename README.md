@@ -246,6 +246,8 @@
 
 ---
 
+<div style="page-break-before: always;"></div>
+
 <h1 id="day-0101-1">
     📅
     <font color="Red"> 
