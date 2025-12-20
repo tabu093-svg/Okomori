@@ -283,4 +283,21 @@
 
 </details>
 
-</div>
+<button
+  onclick="window.scrollTo({ top: 0, behavior: 'smooth' });"
+  style="
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    padding: 10px 14px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: none;
+    background: #0366d6;
+    color: white;
+    z-index: 9999;
+    cursor: pointer;
+  "
+>
+↑ Top
+</button>
