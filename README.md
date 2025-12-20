@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="assets/css/style.scss">
+<div style="font-size: 3.2vw; line-height: 1.6;">
 
 
 # 御籠りの行動予定
@@ -9,7 +10,7 @@
 - [12月28日(日)｜境内準備・物品仕分け](#day-1228)
 - [12月29日(月)｜28日の残作業](#day-1229)
 - [12月30日(火)｜予備日](#day-1230)
-- [12月31日(月)17:00〜｜火入れ〜開始](#day-1231-4)
+- [12月31日(月)17:00〜｜火入れ〜御籠り本番](#day-1231-4)
 
 <div style="page-break-after: always;"></div>
 
@@ -284,3 +285,4 @@
 
 </details>
 
+</div>
