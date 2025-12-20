@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # 御籠り
 
 ## 📅 12月27日(土)｜基地設営
