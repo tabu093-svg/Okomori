@@ -195,8 +195,9 @@
 <div style="page-break-before: always;"></div>
 
 <h1 id="day-1231-4">
+    📅
     <font color="Red"> 
-        📅 12月31日　17:00〜　火入れ式〜御籠り本番 
+         12月31日　17:00〜　火入れ式〜御籠り本番 
     </font>
 </h1>
 
