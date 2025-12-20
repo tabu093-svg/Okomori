@@ -1,6 +1,6 @@
-<div style="font-size: 3.2vw; line-height: 1.6;">
 <link rel="stylesheet" href="assets/css/style.scss">
 
+<div style="font-size: 3.2vw; line-height: 1.6;">
 
 # 御籠りの行動予定
 
