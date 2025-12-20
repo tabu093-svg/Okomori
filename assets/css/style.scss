@@ -1,2 +1,9 @@
-
-
+@media print {
+  body {
+    display: block !important;
+  }
+  .page-header,
+  .site-header {
+    display: none !important;
+  }
+}
