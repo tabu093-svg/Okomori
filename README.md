@@ -282,18 +282,5 @@
 - あああ
 - いいい
 
-<div style="
-  position: fixed;
-  bottom: 16px;
-  right: 16px;
-  background: #0366d6;
-  padding: 10px 14px;
-  border-radius: 6px;
-  font-size: 14px;
-">
-  <a href="#top" style="color: white; text-decoration: none;">
-    ↑ Top
-  </a>
-</div>
 
 [↑ ページ上部へ](#top)
