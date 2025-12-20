@@ -1,6 +1,4 @@
 <link rel="stylesheet" href="assets/css/style.scss">
-<div style="font-size: clamp(14px, 2.6vw, 18px); line-height: 1.6;">
-
 
 # 御籠りの行動予定
 
