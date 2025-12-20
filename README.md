@@ -1,4 +1,19 @@
 <link rel="stylesheet" href="assets/css/style.scss">
+<div style="
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  background: #0366d6;
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 14px;
+">
+  <a href="#top" style="color: white; text-decoration: none;">
+    ↑ Top
+  </a>
+</div>
+
+
 
 # 御籠りの行動予定
 
@@ -279,25 +294,5 @@
  
 - あああ
 - いいい
-- 
-
-</details>
-
-<button
-  onclick="window.scrollTo({ top: 0, behavior: 'smooth' });"
-  style="
-    position: fixed;
-    bottom: 16px;
-    right: 16px;
-    padding: 10px 14px;
-    font-size: 14px;
-    border-radius: 6px;
-    border: none;
-    background: #0366d6;
-    color: white;
-    z-index: 9999;
-    cursor: pointer;
-  "
->
-↑ Top
-</button>
+  
+[↑ ページ上部へ](#top)
