@@ -33,7 +33,7 @@
 
 ---
 
-<div class="page-break"></div>
+<div style="page-break-before: always;"></div>
 
 ## 📅 12月28日(日)｜境内準備・物品仕分け
 
