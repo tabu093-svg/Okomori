@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="assets/css/style.scss">
 <div style="font-size: 3.2vw; line-height: 1.6;">
 
+
 # 御籠り
 
 # 📅 12月27日(土)｜基地設営
@@ -74,24 +75,77 @@
 ### 🚗 買い出し
 - 御籠りに必要な物資の買い出し
 
-|物品|数|
-|:---|---:|
-|おたま|4本|
-|雑巾|30枚|
-|厚手のウエットシート|5袋|
-|ビニール袋(大)|10束|
-|チャッカマン|2本|
-|ガムテ、養生テープ|各5個|
-|金たわし/スポンジ|各3個|
-|食器用洗剤|2本|
-|紙コップ|1500個|
-|袋入り割り箸|1500個|
-|ゴム手袋(調理用)|30枚|
-|ビニール袋(大)|10束|
-|つけてみそかけてみそ|3個|
-|チューブからし|5本|
-|一味唐辛子(瓶)|3本|
-|使い捨てカイロ|50個|
+<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
+  <thead>
+    <tr>
+      <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">物品</th>
+      <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: right;">数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">おたま</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">4本</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">雑巾</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">30枚</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">厚手のウエットシート</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">5袋</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">ビニール袋（大）</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">10束</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">チャッカマン</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2本</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">ガムテ、養生テープ</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">各5個</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">金たわし / スポンジ</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">各3個</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">食器用洗剤</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2本</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">紙コップ</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">1500個</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">袋入り割り箸</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">1500個</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">ゴム手袋（調理用）</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">30枚</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">つけてみそかけてみそ</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">3個</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">チューブからし</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">5本</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">一味唐辛子（瓶）</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">3本</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">使い捨てカイロ</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">50個</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
