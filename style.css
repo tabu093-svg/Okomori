@@ -1,5 +1,10 @@
 @media print {
-  .page-break {
-    page-break-before: always;
+  body {
+    display: block !important;
+  }
+  .page-header,
+  .site-header {
+    display: none !important;
   }
 }
+
