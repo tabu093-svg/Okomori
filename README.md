@@ -359,7 +359,7 @@
 
 <div style="page-break-before: always;"></div>
 
-<h1 id="day-1231-2">📅 1月2日(木)</h1>
+<h1 id="day-0102">📅 1月2日(金)|太太神楽式・打ち上げ</h1>
 
 ###太太神楽式  
 - 👬 **対象**：全員  
@@ -374,7 +374,7 @@
 
 <div style="page-break-before: always;"></div>
 
-<h1 id="day-1231-2">📅 1月3日(土)以降</h1>
+<h1 id="day-0103">📅 1月3日(土)|残作業</h1>
 
 ###残作業
 - 消防ポンプ、ホースの返却
