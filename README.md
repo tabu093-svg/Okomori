@@ -17,7 +17,7 @@
 - [12月31日(水)16:00〜｜厄才大祓い式](#day-1231-3)
 - [12月31日(水)17:00〜｜火入れ〜御籠り本番](#day-1231-4)
 - [1月1日(木)1:00〜｜片付け](#day-0101-1)
-- [1月2日(金)｜大大神楽式・打ち上げ](#day-0102)
+- [1月2日(金)｜奥条字厄才厄除祈願式・打ち上げ](#day-0102)
 - [1月3日(土)｜残作業](#day-0103)
 - 
 - [搬入品など](#ext001)
@@ -246,7 +246,7 @@
 <div style="page-break-before: always;"></div>
 
 <h1 id="day-1231-2">📅 12月31日(木)15:00〜｜奥条区大祓い式</h1>
-👬　祐輔、紀夫、克昌    
+👬　祐輔、紀夫    
 **礼服にて参列**
 
 
@@ -373,7 +373,7 @@
 <h1 id="day-0102">📅 1月2日(金)|太太神楽式・打ち上げ</h1>
 
 ---
-### 太太神楽式  
+### 奥条字厄才厄除祈願式
 - 👬 **対象**：全員  
 - 🕘 **時間**：8:30〜午前中
 - **礼服で参列してください**
@@ -415,6 +415,26 @@
 
 ### 喜代八さんに発注
 
+<style>
+table.pdf-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+table.pdf-table th,
+table.pdf-table td {
+  border: 1px solid #999;
+  padding: 6px 8px;
+  font-size: 14px;
+  word-break: break-word;
+}
+table.pdf-table th:nth-child(1),
+table.pdf-table td:nth-child(1) { width: 30%; }
+table.pdf-table th:nth-child(2),
+table.pdf-table td:nth-child(2) { width: 25%; }
+table.pdf-table th:nth-child(3),
+table.pdf-table td:nth-child(3) { width: 45%; }
+</style>
 <table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
 <tr>
   <th>品目</th>
@@ -608,3 +628,66 @@
   <td> </td>
 </tr>
 
+<style>
+table.pdf-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+table.pdf-table th,
+table.pdf-table td {
+  border: 1px solid #999;
+  padding: 6px 8px;
+  font-size: 14px;
+  word-break: break-word;
+}
+table.pdf-table th:nth-child(1),
+table.pdf-table td:nth-child(1) { width: 30%; }
+table.pdf-table th:nth-child(2),
+table.pdf-table td:nth-child(2) { width: 25%; }
+table.pdf-table th:nth-child(3),
+table.pdf-table td:nth-child(3) { width: 45%; }
+</style>
+
+<table class="pdf-table">
+<tr>
+  <th>品目</th>
+  <th>数量</th>
+  <th>備考</th>
+</tr>
+<tr>
+  <td>木升</td>
+  <td>400個</td>
+  <td>うち100個は春の祭礼用に保管</td>
+</tr>
+<tr>
+  <td>ひしゃく</td>
+  <td>2本</td>
+  <td></td>
+</tr>
+<tr>
+  <td>御神酒</td>
+  <td>4斗樽（36リットル）</td>
+  <td>熱燗用の一升瓶は未購入</td>
+</tr>
+<tr>
+  <td>塩</td>
+  <td>2袋</td>
+  <td></td>
+</tr>
+<tr>
+  <td>飾り樽</td>
+  <td>一式</td>
+  <td></td>
+</tr>
+<tr>
+  <td>お茶</td>
+  <td>2リットル×36本</td>
+  <td></td>
+</tr>
+<tr>
+  <td>水</td>
+  <td>2リットル×18本</td>
+  <td></td>
+</tr>
+</table>
