@@ -607,26 +607,23 @@ table.pdf-table td:nth-child(3) { width: 45%; }
 ### 日赤(常滑市)借用品
 
 <table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
-<tr>
-  <th>品目</th>
-  <th>数量</th>
-  <th>備品番号（整理番号）</th>
-</tr>
-<tr>
-  <td>はそり</td>
-  <td>3</td>
-  <td>NO.8、9、14</td>
-</tr>
-<tr>
-  <td>テント</td>
-  <td>2</td>
-  <td>NO.2、7</td>
-</tr>
-<tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-</tr>
+  <thead>
+    <tr>
+      <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">物品</th>
+      <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: right;">数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">はそり</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">3</td>
+    </tr>
+    <tr style="page-break-inside: avoid;">
+      <td style="padding: 2px 6px; border: 1px solid #ccc;">テント</td>
+      <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2</td>
+    </tr>
+  </tbody>
+</table>
 
 <style>
 table.pdf-table {
