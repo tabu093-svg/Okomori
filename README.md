@@ -591,7 +591,7 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc;">紙袋</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">70枚</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">12/29引取り </td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">12/29引取り</td>
   </tr>
 </table>
 
