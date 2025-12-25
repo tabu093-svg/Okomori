@@ -602,18 +602,4 @@
   <td>2</td>
   <td>NO.2、7</td>
 </tr>
-</table>
-</tr>
-<tr>
-  <td>　</td>
-  <td>　</td>
-  <td>　</td>
-</tr>
-</table></tr>
-<tr>
-  <td>　</td>
-  <td>　</td>
-  <td>　</td>
-</tr>
-</table>
 
