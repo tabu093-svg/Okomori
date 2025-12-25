@@ -415,68 +415,17 @@
 
 ### 喜代八さんに発注
 
-<style>
-table.pdf-table {
-  width: 100%;
-  border-collapse: collapse;
-  table-layout: fixed;
-}
-table.pdf-table th,
-table.pdf-table td {
-  border: 1px solid #999;
-  padding: 6px 8px;
-  font-size: 14px;
-  word-break: break-word;
-}
-table.pdf-table th:nth-child(1),
-table.pdf-table td:nth-child(1) { width: 30%; }
-table.pdf-table th:nth-child(2),
-table.pdf-table td:nth-child(2) { width: 25%; }
-table.pdf-table th:nth-child(3),
-table.pdf-table td:nth-child(3) { width: 45%; }
-</style>
 <table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
-<tr>
-  <th>品目</th>
-  <th>数量</th>
-  <th>備考</th>
-</tr>
-<tr>
-  <td>木升</td>
-  <td>400個</td>
-  <td>うち100個は春の祭礼用に保管</td>
-</tr>
-<tr>
-  <td>ひしゃく</td>
-  <td>2本</td>
-  <td></td>
-</tr>
-<tr>
-  <td>御神酒</td>
-  <td>4斗樽（36リットル）</td>
-  <td>熱燗用の一升瓶は未購入</td>
-</tr>
-<tr>
-  <td>塩</td>
-  <td>2袋</td>
-  <td></td>
-</tr>
-<tr>
-  <td>飾り樽</td>
-  <td>一式</td>
-  <td></td>
-</tr>
-<tr>
-  <td>お茶</td>
-  <td>2リットル×36本</td>
-  <td></td>
-</tr>
-<tr>
-  <td>水</td>
-  <td>2リットル×18本</td>
-  <td></td>
-</tr>
-</table>
+  <thead>
+    <tr>
+      <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">物品</th>
+      <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: right;">数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">木升</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">400個</td></tr>
+    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">ひしゃく</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2本</td></tr>
+    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">御神酒（4斗樽）</td><td style="padding: 2px 6px; border: 1px soli
 
 ### マンセイ堂
 #### お籠り振る舞い用(12/27納品予定)
