@@ -411,28 +411,7 @@
 
 <h1 id="ext001">📅 12月27～29日 搬入品</h1>
 
-<h2>12/31 関係（喜代八さんに発注）</h2>
-
-<style>
-table.pdf-table {
-  width: 100%;
-  border-collapse: collapse;
-  table-layout: fixed;
-}
-table.pdf-table th,
-table.pdf-table td {
-  border: 1px solid #999;
-  padding: 6px 8px;
-  font-size: 14px;
-  word-break: break-word;
-}
-table.pdf-table th:nth-child(1),
-table.pdf-table td:nth-child(1) { width: 30%; }
-table.pdf-table th:nth-child(2),
-table.pdf-table td:nth-child(2) { width: 25%; }
-table.pdf-table th:nth-child(3),
-table.pdf-table td:nth-child(3) { width: 45%; }
-</style>
+<h2>12/31 喜代八さんに発注</h2>
 
 <table class="pdf-table">
 <tr>
@@ -476,3 +455,37 @@ table.pdf-table td:nth-child(3) { width: 45%; }
   <td></td>
 </tr>
 </table>
+
+<h2>>日赤(常滑市)借用品　</h2>
+
+<table class="pdf-table">
+<tr>
+  <th>品目</th>
+  <th>数量</th>
+  <th>備品番号（整理番号）</th>
+</tr>
+<tr>
+  <td>はそり</td>
+  <td>3</td>
+  <td>NO.8、9、14</td>
+</tr>
+<tr>
+  <td>テント</td>
+  <td>2</td>
+  <td>NO.2、7</td>
+</tr>
+</table>
+</tr>
+<tr>
+  <td>　</td>
+  <td>　</td>
+  <td>　</td>
+</tr>
+</table></tr>
+<tr>
+  <td>　</td>
+  <td>　</td>
+  <td>　</td>
+</tr>
+</table>
+
