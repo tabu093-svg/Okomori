@@ -575,7 +575,6 @@
   <td>3本</td>
   <td>おでん、湯沸し用　</td>
 </tr>
-</table>
 <tr>
   <td>1</td>
   <td>LPガスボンベ　</td>
