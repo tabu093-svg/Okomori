@@ -658,14 +658,14 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc;">はそり</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">3</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">No.8,9,14</td>
   </tr>
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">2</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;">テント</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">No.2,7 </td>
   </tr>
   <!-- 空欄行① -->
   <tr style="page-break-inside: avoid;">
