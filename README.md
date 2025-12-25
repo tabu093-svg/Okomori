@@ -432,7 +432,7 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc;">木升</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">400個</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">100個は祭礼用>1td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">100個は祭礼用</td>
   </tr>
 
   <tr style="page-break-inside: avoid;">
