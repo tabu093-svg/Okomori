@@ -411,7 +411,7 @@
 
 <h1 id="ext001">📅 12月27～29日 搬入品</h1>
 
-<h2>12/31 喜代八さんに発注</h2>
+### 喜代八さんに発注
 
 <table class="pdf-table">
 <tr>
@@ -456,7 +456,68 @@
 </tr>
 </table>
 
-<h2>>日赤(常滑市)借用品　</h2>
+### マンセイ堂
+#### 厄才厄除祈願式用
+
+<table class="pdf-table">
+<tr>
+  <th>No.</th>
+  <th>品名</th>
+  <th>規格</th>
+  <th>数量</th>
+  <th>適用</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>二升餅　かざり餅（大神楽式）</td>
+  <td>約6,000円</td>
+  <td>1式</td>
+  <td>1/2 午前8時</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>二合餅（紅白）</td>
+  <td>約700円</td>
+  <td>50組</td>
+  <td>1/2 午前8時</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>お菓子</td>
+  <td>予算2,000円</td>
+  <td>50個</td>
+  <td>1/2 午前8時</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>紙袋</td>
+  <td>約100円</td>
+  <td>70枚</td>
+  <td>12/29 引取り</td>
+</tr>
+</table>
+
+#### 大祓式用
+
+<table class="pdf-table">
+<tr>
+  <th>No.</th>
+  <th>品名</th>
+  <th>規格</th>
+  <th>数量</th>
+  <th>適用</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>二升餅　かざり餅（大祓式）</td>
+  <td></td>
+  <td>1式</td>
+  <td>要相談（可能であれば12/31）</td>
+</tr>
+</table>
+
+
+### 日赤(常滑市)借用品
 
 <table class="pdf-table">
 <tr>
