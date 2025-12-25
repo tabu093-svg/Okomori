@@ -457,7 +457,47 @@
 </table>
 
 ### マンセイ堂
-#### 厄才厄除祈願式用
+#### お籠り振る舞い用(12/27納品予定)
+
+<table class="pdf-table">
+<tr>
+  <th>No.</th>
+  <th>品名</th>
+  <th>規格</th>
+  <th>数量</th>
+  <th>適用</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>かっぱえびせん小　</td>
+  <td>24袋入り　</td>
+  <td>21箱　</td>
+  <td>　</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>サッポロポテトベジタブル　</td>
+  <td>24袋入り　</td>
+  <td>21箱　</td>
+  <td>　</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>サッポロポテトばーべQ　</td>
+  <td>24袋入り　</td>
+  <td>21箱　</td>
+  <td>　</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>ポテトチップス　</td>
+  <td>12袋入り　</td>
+  <td>3箱</td>
+  <td>少年少女囃子お土産用　</td>
+</tr>
+</table>
+
+#### 厄才厄除祈願式用(1/2納品予定)
 
 <table class="pdf-table">
 <tr>
@@ -497,7 +537,7 @@
 </tr>
 </table>
 
-#### 大祓式用
+#### 大祓式用(12/31納品予定)
 
 <table class="pdf-table">
 <tr>
@@ -516,6 +556,33 @@
 </tr>
 </table>
 
+### 両元産業12/29AM
+
+<table class="pdf-table">
+<tr>
+  <th>No.</th>
+  <th>品名</th>
+  <th>規格</th>
+  <th>数量</th>
+  <th>適用</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>LPガスボンベ　</td>
+  <td>20㎏</td>
+  <td>3本</td>
+  <td>おでん、湯沸し用　</td>
+</tr>
+</table>
+
+<tr>
+  <td>1</td>
+  <td>LPガスボンベ　</td>
+  <td>20㎏</td>
+  <td>1本</td>
+  <td>予備</td>
+</tr>
+</table>
 
 ### 日赤(常滑市)借用品
 
