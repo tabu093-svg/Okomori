@@ -610,12 +610,13 @@
   </tr>
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">1</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">二升餅　飾り餅>にtdに
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">二升餅　飾り餅></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2本</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
   </tr>
 </table>
+
 
 ### 両元産業12/29AM
 
