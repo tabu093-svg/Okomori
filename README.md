@@ -407,3 +407,82 @@
 
 [↑ ページ上部へ](#top)
 
+<div style="page-break-before: always;"></div>
+
+<h1 id="ext001">📅 搬入品</h1>
+
+<style>
+table.pdf-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+table.pdf-table th,
+table.pdf-table td {
+  border: 1px solid #999;
+  padding: 6px 8px;
+  font-size: 14px;
+  word-break: break-word;
+}
+table.pdf-table th:nth-child(1),
+table.pdf-table td:nth-child(1) { width: 10%; }
+table.pdf-table th:nth-child(2),
+table.pdf-table td:nth-child(2) { width: 25%; }
+table.pdf-table th:nth-child(3),
+table.pdf-table td:nth-child(3) { width: 20%; }
+table.pdf-table th:nth-child(4),
+table.pdf-table td:nth-child(4) { width: 45%; }
+</style>
+
+<h2>12/31 関係（喜代八さんに発注）</h2>
+
+<table class="pdf-table">
+<tr>
+  <th>区分</th>
+  <th>品目</th>
+  <th>数量</th>
+  <th>備考</th>
+</tr>
+<tr>
+  <td>○</td>
+  <td>木升</td>
+  <td>400個</td>
+  <td>うち100個は春の祭礼用に保管</td>
+</tr>
+<tr>
+  <td>○</td>
+  <td>ひしゃく</td>
+  <td>2本</td>
+  <td></td>
+</tr>
+<tr>
+  <td>○</td>
+  <td>御神酒</td>
+  <td>4斗樽（36リットル）</td>
+  <td>熱燗用の一升瓶は未購入</td>
+</tr>
+<tr>
+  <td>○</td>
+  <td>塩</td>
+  <td>2袋</td>
+  <td></td>
+</tr>
+<tr>
+  <td>○</td>
+  <td>飾り樽</td>
+  <td>一式</td>
+  <td></td>
+</tr>
+<tr>
+  <td>○</td>
+  <td>お茶</td>
+  <td>2リットル×36本</td>
+  <td></td>
+</tr>
+<tr>
+  <td>○</td>
+  <td>水</td>
+  <td>2リットル×18本</td>
+  <td></td>
+</tr>
+</table>
