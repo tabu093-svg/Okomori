@@ -608,7 +608,6 @@
     <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: right;">数量</th>
     <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">適用</th>
   </tr>
-
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">1</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;">二升餅　飾り餅>にtdに
@@ -654,7 +653,6 @@
     <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: right;">数量</th>
     <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">適用</th>
   </tr>
-
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">1</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;">はそり</td>
@@ -662,7 +660,6 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">3</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
   </tr>
-
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">2</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;">テント</td>
@@ -670,7 +667,6 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
   </tr>
-
   <!-- 空欄行① -->
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">3</td>
@@ -679,7 +675,6 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">　</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;">　</td>
   </tr>
-
   <!-- 空欄行② -->
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">4</td>
