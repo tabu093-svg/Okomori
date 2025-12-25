@@ -415,7 +415,7 @@
 
 ### 喜代八さんに発注
 
-<table class="pdf-table">
+<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
 <tr>
   <th>品目</th>
   <th>数量</th>
@@ -461,7 +461,7 @@
 ### マンセイ堂
 #### お籠り振る舞い用(12/27納品予定)
 
-<table class="pdf-table">
+<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
 <tr>
   <th>No.</th>
   <th>品名</th>
@@ -501,7 +501,7 @@
 
 #### 厄才厄除祈願式用(1/2納品予定)
 
-<table class="pdf-table">
+<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
 <tr>
   <th>No.</th>
   <th>品名</th>
@@ -541,7 +541,7 @@
 
 #### 大祓式用(12/31納品予定)
 
-<table class="pdf-table">
+<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
 <tr>
   <th>No.</th>
   <th>品名</th>
@@ -560,7 +560,7 @@
 
 ### 両元産業12/29AM
 
-<table class="pdf-table">
+<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
 <tr>
   <th>No.</th>
   <th>品名</th>
@@ -586,7 +586,7 @@
 
 ### 日赤(常滑市)借用品
 
-<table class="pdf-table">
+<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
 <tr>
   <th>品目</th>
   <th>数量</th>
