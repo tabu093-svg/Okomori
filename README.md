@@ -425,7 +425,14 @@
   <tbody>
     <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">木升</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">400個</td></tr>
     <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">ひしゃく</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2本</td></tr>
-    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">御神酒（4斗樽）</td><td style="padding: 2px 6px; border: 1px soli
+    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">御神酒（4斗樽）</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">36リットル</td></tr>
+    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">塩</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2袋</td></tr>
+    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">飾り樽</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">一式</td></tr>
+    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">お茶（2L）</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">36本</td></tr>
+    <tr style="page-break-inside: avoid;"><td style="padding: 2px 6px; border: 1px solid #ccc;">水（2L）</td><td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">18本</td></tr>
+  </tbody>
+</table>
+
 
 ### マンセイ堂
 #### お籠り振る舞い用(12/27納品予定)
