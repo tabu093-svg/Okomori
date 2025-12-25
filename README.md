@@ -411,9 +411,10 @@
 
 <div style="page-break-before: always;"></div>
 
-<h1 id="ext001">📅 12月27～29日 搬入品など</h1>
+<h1 id="ext001">📅 12月27～29日 納付など</h1>
 
-### 喜代八さんに発注
+### 喜代八さん
+#### 御籠り用
 
 <table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
   <tr>
@@ -429,7 +430,7 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc;">木升</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">400個</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">100個は祭礼用>1td>
   </tr>
 
   <tr style="page-break-inside: avoid;">
@@ -445,7 +446,7 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc;">御神酒</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;">4斗樽（36L）</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">1樽</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">熱燗用含む</td>
   </tr>
 
   <tr style="page-break-inside: avoid;">
@@ -481,6 +482,33 @@
   </tr>
 </table>
 
+#### 保存会差し入れ用
+
+<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
+  <tr>
+    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: center;">No.</th>
+    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">品名</th>
+    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">規格</th>
+    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: right;">数量</th>
+    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">適用</th>
+  </tr>
+
+  <tr style="page-break-inside: avoid;">
+    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">1</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">ビール</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">24本（1ケース）</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+  </tr>
+
+  <tr style="page-break-inside: avoid;">
+    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">2</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">お茶（ペットボトル）</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">24本（1ケース）</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+  </tr>
+</table>
 
 ### マンセイ堂
 #### お籠り振る舞い用(12/27納品予定)
@@ -523,7 +551,7 @@
   </tr>
 </table>
 
-#### 保存会差し入れ用
+#### 厄才厄除祈願式用(1/2 8:00納品予定)
 
 <table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
   <tr>
@@ -536,35 +564,7 @@
 
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">1</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">ビール</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">24本（1ケース）</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
-  </tr>
-
-  <tr style="page-break-inside: avoid;">
-    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">2</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">お茶（ペットボトル）</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">24本（1ケース）</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
-  </tr>
-</table>
-
-#### 厄才厄除祈願式用(1/2納品予定)
-
-<table style="border-collapse: collapse; width: 100%; font-size: 0.9em;">
-  <tr>
-    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: center;">No.</th>
-    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">品名</th>
-    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">規格</th>
-    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: right;">数量</th>
-    <th style="padding: 3px 6px; border: 1px solid #ccc; text-align: left;">適用</th>
-  </tr>
-
-  <tr style="page-break-inside: avoid;">
-    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">1</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">二升餅 かざり餅（大神楽式）</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">二升餅 かざり餅</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">1式</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
@@ -591,7 +591,7 @@
     <td style="padding: 2px 6px; border: 1px solid #ccc;">紙袋</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">70枚</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">12/29引取り </td>
   </tr>
 </table>
 
@@ -609,17 +609,9 @@
 
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">1</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">御神酒</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">二升餅　飾り餅>にtdに
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">2本</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
-  </tr>
-
-  <tr style="page-break-inside: avoid;">
-    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">2</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">塩</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">1袋</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
   </tr>
 </table>
