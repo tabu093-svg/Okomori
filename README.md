@@ -499,7 +499,7 @@
 
   <tr style="page-break-inside: avoid;">
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: center;">1</td>
-    <td style="padding: 2px 6px; border: 1px solid #ccc;">ビール</td>
+    <td style="padding: 2px 6px; border: 1px solid #ccc;">~~ビール~~</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
     <td style="padding: 2px 6px; border: 1px solid #ccc; text-align: right;">24本（1ケース）</td>
     <td style="padding: 2px 6px; border: 1px solid #ccc;"></td>
